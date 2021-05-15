@@ -8,19 +8,6 @@
 			<ul>
 				<li class="active">
 					<a href="/">Home</a></li>
-				<li class="drop-down">
-					<a href="">Social Media Posts</a>
-					<ul>
-						<li>
-							<a href="/twitter">Twitter</a></li>
-						<li>
-							<a href="/reddit">Reddit</a></li>
-						<li>
-							<a href="/youtube">Youtube</a></li>
-						<li class="get-started">
-							<a href="/submitpost">Submit Post</a></li>
-					</ul>
-				</li>
 			</ul>
 		</nav>
 		<!-- .nav-menu --></div>
