@@ -7,7 +7,7 @@
 		<div class="row content">
 			<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
 				<div>
-					Stufe 1: Kaufen von DeFi Assets ist ohne KYC bis 900 EUR am Tag m&ouml;glich. Das Referal Link System funktioniert schon voll.</div>
+					Stufe 1: Kaufen von DeFi Assets ist ohne KYC bis 900 EUR am Tag m&ouml;glich. Das Referral Link System funktioniert schon voll.</div>
 				<div>
 					&nbsp;</div>
 				<div>
