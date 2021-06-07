@@ -4,7 +4,7 @@ name: Deployment Workflow
 on:
   # Triggers the workflow on push or pull request events but only for the develop branch
   push:
-    branches: [ master ]
+    branches: [ master, develop ]
   # Allows you to run this workflow manually from the Actions tab
 
 
@@ -18,10 +18,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: testing fiat2defi.ch server ssh connection
-        uses: actions/checkout@v2
-
       # Runs a single command using the runners shell
       - name: Run Super-Linter
         uses: appleboy/ssh-action@master
@@ -31,7 +27,11 @@ jobs:
             key: ${{ secrets.PRIVKEY }}
             protocol: ftps
             port: ${{ secrets.PORT }}
-            script:  whoami
+            run: |
+                  pwd
+                  ./fiat2defi.ch/deploy.sh
+                    
+ 
                 
           
         

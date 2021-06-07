@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="section-title" data-aos="fade-up">
 			<h2>
-				&Uuml;ber Decentral Finance Exchange</h2>
+				About Decentral Finance Exchange</h2>
 		</div>
 		<div class="row content">
 			<div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">

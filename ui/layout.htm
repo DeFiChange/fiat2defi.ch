@@ -52,12 +52,12 @@
           </div>
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-              <a href="/home">Home</a>
-              <a href="/about">Ueber uns</a>
-              <a href="http://api.fiat2defi.ch/" target="_blank">API</a>
-              <a href="/roadmap">Roadmap</a>
-              <a href="/legal">Rechtliches</a>
-              <a href="/privacy">Datenschutzerklaerung</a>
+              <p><a href="/home">Home</a></p>
+              <p><a href="/about">Ueber uns</a></p>
+              <p><a href="http://api.fiat2defi.ch/" target="_blank">API</a></p>
+              <p><a href="/roadmap">Roadmap</a></p>
+              <p><a href="/legal">Rechtliches</a></p>
+              <p><a href="/privacy">Datenschutzerklaerung</a></p>
             </nav>
           </div>
         </div>
