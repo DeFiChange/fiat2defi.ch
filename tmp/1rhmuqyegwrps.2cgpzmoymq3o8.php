@@ -11,7 +11,7 @@
 					<a class="btn-get-started scrollto" href="#about">More information</a></div>
 			</div>
 			<div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-				<img alt="" class="img-fluid animated" src="assets/img/defipromo_logos/change_logo.png" /></div>
+				<img alt="" class="img-fluid animated" src="assets/img/euro2dfi-1000x1050.png" /></div>
 		</div>
 	</div>
 </section>

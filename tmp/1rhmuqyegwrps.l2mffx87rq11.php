@@ -7,19 +7,33 @@
 		<div class="row content">
 			<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
 				<div>
-					Stage 1: Buying DeFi assets is possible without KYC up to 900 EUR per day. The referral link system is already fully functional.</div>
+					<h4>06/2021</h4>
+					CFP approval via Masternodes</div>
 				<div>
 					&nbsp;</div>
 				<div>
-					Stage 2: Purchase of DeFi assets is possible with optional KYC at an unrestricted level.</div>
+					<h4>07/2021</h4>
+					Testing period of Decentralized Finance Exchange</div>
 				<div>
 					&nbsp;</div>
 				<div>
-					Level 3: It is also possible to sell DeFi Assets.</div>
-				<p style="text-align:justify">
-					<br />
-					When will we be done with it?
-					Decentral Finance Exchange is an open source community project. Its success depends on each individual. Join our team to contribute and accelerate the development.&nbsp;</p>
+					<h4>08/2021</h4>
+					Launch of DeFiChain asset purchases via bank transfer</div>
+				<div>
+					&nbsp;</div>
+				<div>
+				<h4>09/2021</h4>
+					Launch of DeFiChain asset sales via bank transfer</div>
+				<div>
+					&nbsp;</div>
+				<div>
+					<h4>10/2021</h4>
+						Mobile Wallet integration</div>
+				<div>
+					&nbsp;</div>
+				<div>
+					<h4>01/2022</h4>
+						Purchases/sales via Kreditkarte</div>
 			</div>
 		</div>
 	</div>
