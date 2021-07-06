@@ -13,7 +13,7 @@
 			<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
 				<p style="text-align:justify">
 					&nbsp;</p>
-				<img alt="" src="https://fiat2defi.ch/assets/img/funktion.png" style="height: 577px; width: 600px;" /></div>
+				<img alt="" src="/assets/img/functionDFI.png" style="height: 577px; width: 600px;" /></div>
 		</div>
 	</div>
 </section>
