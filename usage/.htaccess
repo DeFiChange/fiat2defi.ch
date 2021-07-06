@@ -1,5 +1,0 @@
-AuthUserFile /www/htdocs/w01be28d/Decentralized Finance Exchange.ch/usage/.htpasswd
-AuthGroupFile /dev/null
-AuthName 'ByPassword'
-AuthType Basic
-require valid-user
